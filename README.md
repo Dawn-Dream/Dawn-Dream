@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ## 网络上存在的地方
 
-[我的个人主页](https://dawndream.top/)
+* [我的个人主页](https://dawndream.top/)
 
-[我的博客](http://blog.dawndream.top:4000/)
+* [我的博客](http://blog.dawndream.top:4000/)
 
-[我的B站主页](https://space.bilibili.com/111151688)
+* [我的B站主页](https://space.bilibili.com/111151688)
 
-[我的QQ:]()1040545078
+* [我的QQ:]()1040545078
 
 ## 我的爱好
 

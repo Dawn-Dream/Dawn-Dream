@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 我今年只有14岁，而且我什么都不会(
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-Dream&layout=compact">
-</a>
-<br><br>
 
 ## 网络上存在的地方
 
@@ -41,7 +37,7 @@ Here are some ideas to get you started:
 
 * 音游
 * 我的世界(minecraft JAVA)
-* 写服务器插件(Bukkit Plugin)
+* 写服务器插件(Bukkit Plugin/BC plugin)
 * 自学语言(
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dawn-Dream&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">

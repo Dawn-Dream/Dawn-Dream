@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 
 我是晓梦Dawn-Dream，一个来自中国广东的弱智青年(
 
-我今年只有14岁，而且我什么都不会(
+我今年只有15岁，而且我什么都不会(
 
 
 ## 网络上存在的地方
 
 * [我的个人主页](https://dawndream.top/)
 
-* [我的博客](http://blog.dawndream.top:4000/)
 
 * [我的B站主页](https://space.bilibili.com/111151688)
 

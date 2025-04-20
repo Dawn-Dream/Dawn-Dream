@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 ## 网络上存在的地方
 
 * [我的博客](https://www.dawndream.asia/)
+* [Github]()(不就在这嘛)
 
-* [我的QQ:]()1040545078
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dawn-Dream&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
 </a>
-![GitHub followers](https://img.shields.io/github/followers/Dawn-Dream?style=flat)
+  
+![GitHub followers](https://img.shields.io/github/followers/Dawn-Dream?style=social)
+
 
 

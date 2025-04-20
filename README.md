@@ -24,12 +24,8 @@ Here are some ideas to get you started:
 * [我的博客](https://www.dawndream.asia/)
 
 * [我的QQ:]()1040545078
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dawn-Dream&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true">
+</a>
 ![GitHub followers](https://img.shields.io/github/followers/Dawn-Dream?style=flat)
-
-
-
-
-![GitHub followers](https://img.shields.io/github/followers/dawn-dream?label=github%E7%9A%84%E7%B2%89%E4%B8%9D&style=for-the-badge)
 
 
